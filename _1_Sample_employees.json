@@ -1,0 +1,39 @@
+{
+  "Employees": [
+    {
+      "Name": "Alisha",
+      "DOB": "15th september 1989",
+      "Height": "5.6",
+      "City": "Anantapur",
+      "State": "Andhra Pradesh"
+    },
+    {
+      "Name": "Ishita",
+      "DOB": "9th april 1994",
+      "Height": "5.2",
+      "City": "Nagaon",
+      "State": "Assam"
+    },
+    {
+      "Name": "Manan",
+      "DOB": "28th february 1992",
+      "Height": "6.0",
+      "City": "Dehri",
+      "State": "Bihar"
+    },
+    {
+      "Name": "Ajinkya",
+      "DOB": "12th november 1997",
+      "Height": "5.8",
+      "City": "Jaipur",
+      "State": "Rajasthan"
+    },
+    {
+      "Name": "Vivaan",
+      "DOB": "18th october 1998",
+      "Height": "5.9",
+      "City": "Raipur",
+      "State": "Chhattisgarh"
+    }
+  ]
+}
